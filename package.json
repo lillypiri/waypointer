@@ -1,0 +1,21 @@
+{
+  "name": "spotcoco",
+  "version": "1.0.0",
+  "description": "Send coordinates to a map, which creates a point",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "Lilly Piri",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "ol": "^5.3.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
