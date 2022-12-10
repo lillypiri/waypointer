@@ -13,7 +13,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "es6-promise": "^4.2.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "isomorphic-fetch": "^2.2.1",
     "ol": "^5.3.3",
     "react": "^16.8.6",
